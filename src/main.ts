@@ -1,7 +1,7 @@
 import './style.css'
 
 
-import { setupCounter } from './counter.ts'
+
 import './basic /1.ts'
 import './basic /2.ts'
 import './basic /3.ts'

@@ -19,9 +19,9 @@ type AllType = {
   };
 }
    
-const top = { name: 'Olga', color: 'red' };
-const bottom = { position: 1, weight: 55 };
+const topType = { name: 'Olga', color: 'red' };
+const bottomType = { position: 1, weight: 55 };
 
-const result = compare(top, bottom);
+const result = compare(topType, bottomType);
 
 console.log(result);
